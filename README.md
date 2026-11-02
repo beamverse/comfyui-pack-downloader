@@ -1,6 +1,6 @@
-# ComfyUI 离线安装包下载工具
+# ComfyUI,LTX,minimaxH3 离线安装包下载工具
 
-把 ComfyUI 离线安装包下载到移动硬盘，再把硬盘插到 GPU 服务器上安装
+把 ComfyUI,LTX,minimaxH3 离线安装包下载到移动硬盘，再把硬盘插到 GPU 服务器上安装
 需要管理员发的下载码
 
 本仓库只发布程序，请到 [Releases](https://github.com/beamverse/comfyui-pack-downloader/releases/latest) 下载
