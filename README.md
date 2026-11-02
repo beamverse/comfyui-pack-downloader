@@ -11,5 +11,5 @@
 
 ```bash
 curl -fL -o ~/comfyui-pack-download https://github.com/beamverse/comfyui-pack-downloader/releases/latest/download/comfyui-pack-download-macos-arm64 && chmod +x ~/comfyui-pack-download && ~/comfyui-pack-download
-``
+```
 Mac上用的移动硬盘必须是 exFAT格式，否则服务器读不了
